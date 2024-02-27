@@ -10,6 +10,6 @@ Bu basit Todo uygulaması, kullanıcıların yapılacak görevleri eklemelerine 
 
 ## Geliştirme
 
-Bu uygulama, HTML, CSS ve JavaScript kullanılarak geliştirilmiştir. Geliştirme ortamınızda uygulamayı çalıştırmak için herhangi bir web sunucusu kullanabilirsiniz.
+Bu uygulama, HTML, CSS, JavaScript ve React kullanılarak geliştirilmiştir. Geliştirme ortamınızda uygulamayı çalıştırmak için herhangi bir web sunucusu kullanabilirsiniz.
 
 
